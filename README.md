@@ -50,7 +50,7 @@ To demonstrate strong understanding of OOP concepts in Java through a practical 
 
 ## How to Run
 
-1. Clone this repository or download the `Calculator.java` file
+1. Clone this repository or download the `LibraryManagementSystem.java` file
 2. Open a terminal and navigate to the file directory
 3. Compile the code:
 
